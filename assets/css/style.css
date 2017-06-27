@@ -1,0 +1,60 @@
+#container {
+
+		width: 90%;
+		margin:0 auto;
+		border: 2px solid black;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		/*background: #bec2c6;*/
+		box-shadow: 10px 10px 5px #888888;
+		border-radius: 10px;
+
+}
+
+.buttons-view{
+	margin-left: 15px;
+}
+
+.moviestar {
+	margin:5px;
+}
+
+.gallery {
+	width: 100%;
+	margin-left: 10px;
+}
+
+.actorimage {
+	width: 100%;
+	margin:5px;
+	height: 180px;
+}
+
+p {
+    margin: 0 0 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 900;
+    font-family: serif;
+}
+
+
+.addnewactor input {
+	width: 90%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.addnewactor h3 {
+	width: 90%;
+	font-size: 18px;
+
+}
+
+.btn {
+
+	margin-bottom: 10px;
+}
+
+
+
